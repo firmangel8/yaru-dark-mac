@@ -1,2 +1,2 @@
-# yaru-dark-mac
-Repository for gth 3.20 themes in Ubuntu, based on Yaru themes. Base theme adopted by Yaru-MacosDark
+# yaru-dark-mac-pagedev
+Repository for development theme based on gtk 3.2+ themes in Ubuntu, design based on Yaru and Yaru-MacosDark themes
